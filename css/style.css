@@ -298,7 +298,7 @@ li:not(:last-child) {
     overflow: hidden;
 }
 
-@media (min-width:1440px) {
+@media (min-width:900px) {
 
     .card {
         width: 39.73rem;      
